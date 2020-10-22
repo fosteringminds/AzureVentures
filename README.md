@@ -16,3 +16,4 @@ The purpose of AzureVentures is to keep a repository of the things I work on whi
 - [Azure Citadel - Labs and Workshops](https://azurecitadel.com/)
 - [Microsoft Cloud Workshop - More labs and workshops](https://microsoftcloudworkshop.com/)
 - [Github AZ-104 from Microsoft Training](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/)
+- [Github labs for AZ-204](https://github.com/MicrosoftLearning/AZ-204-DevelopingSolutionsforMicrosoftAzure)
